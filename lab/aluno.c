@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+	Todos os direits reservados
+	****** Bemvindo Alves *****
+*/
 int main() {
   int n1, n2;
 
