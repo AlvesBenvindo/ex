@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
 	Todos os direits reservados
-	****** Bemvindo Alves *****
+	****** Bemvindo Digras11 **
 */
 int main() {
   int n1, n2;
